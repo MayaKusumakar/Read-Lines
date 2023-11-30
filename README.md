@@ -6,14 +6,14 @@ The programming language Python has some really nice functions for dealing with 
 Please see main.c and other files from [ReadLinesStarter.zip](https://github.com/MayaKusumakar/Read-Lines/files/13506508/ReadLinesStarter.1.zip)
 
 ## Specifications
-Your program should work on a file regardless of
+The program should work on a file regardless of
   - The file's size
   - The number of lines in the file
   - The number of words in the file
   - The size of a line
   - The size of a word
 
-For this assignment you will be creating a function and not an entire program. Make sure you start from the given starter code
+This code is only a function and not an entire program. Make sure to get main.c and other files from the given starter code
 
 The function you create should have the following signature: 
   - void read_lines(FILE* fp, char*** lines, int* num_lines)
