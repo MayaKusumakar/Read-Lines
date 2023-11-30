@@ -3,7 +3,7 @@
 The programming language Python has some really nice functions for dealing with files. One of them is called readlines and it reads the lines of the files into an array. For this project you will be implementing readlines in C.
 
 ## Starter Code
-Please start your solution from [ReadLinesStarter.zip](https://github.com/MayaKusumakar/Read-Lines/files/13506508/ReadLinesStarter.1.zip)
+Please see main.c and other files from [ReadLinesStarter.zip](https://github.com/MayaKusumakar/Read-Lines/files/13506508/ReadLinesStarter.1.zip)
 
 ## Specifications
 Your program should work on a file regardless of
